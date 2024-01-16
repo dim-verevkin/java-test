@@ -6,7 +6,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>Deploy5</artifactId>
-    <version>1.0.21</version>
+    <version>1.0.25</version>
     <build>
         <plugins>
             <plugin>
